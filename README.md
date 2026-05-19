@@ -33,5 +33,5 @@ Estudante de Análise e Desenvolvimento de Sistemas · FATEC (3/6)
 
 ### Repositório em destaque
 - [`LP2`](https://github.com/mafemachado/LP2) — Linguagem de Programação 2 / C# · FATEC Sorocaba
-- [`Engenharia-II-Fatec/TG`](https://github.com/Engenharia-II-Fatec/TG) — Sistema Espaço Lição de Casa (TCC)
+- [`Engenharia-II-Fatec/TG`](https://github.com/Engenharia-II-Fatec/TG) — Sistema Espaço Lição de Casa
 - [`Especialista-em-Inteligencia-Articial---Alura`](https://github.com/mafemachado/Especialista-em-Inteligencia-Articial---Alura) — Trilha de estudos em IA e Machine Learning · Alura
