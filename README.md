@@ -10,7 +10,6 @@
 
 **Maria Fernanda Machado**  
 Estudante de Análise e Desenvolvimento de Sistemas · FATEC  
-Sorocaba - SP
 
 </div>
 
@@ -18,9 +17,9 @@ Sorocaba - SP
 
 ### Sobre mim
 
-- 📚 Cursando Análise e Desenvolvimento de Sistemas na FATEC Sorocaba (3/6)
-- 💻 Desenvolvendo habilidades em desenvolvimento de software
-- 🎯 Em busca de crescimento técnico e novos desafios
+- 💻 Construindo base sólida em lógica, programação e boas práticas de desenvolvimento
+- 🤖 Explorando Inteligência Artificial e Machine Learning
+- 📍 Sorocaba - SP
 
 ---
 
