@@ -16,7 +16,8 @@ Estudante de Análise e Desenvolvimento de Sistemas · FATEC (3/6)
 
 ---
 <img src="https://raw.githubusercontent.com/mafemachado/mafemachado/main/GEOm28JWQAATQBX-removebg-preview.png" width="86" align="right" />
-### Sobre mim
+---
+###Sobre mim
 
 - 💻 Construindo base sólida em lógica, programação e boas práticas de desenvolvimento
 - 🤖 Explorando Inteligência Artificial e Machine Learning
@@ -26,9 +27,13 @@ Estudante de Análise e Desenvolvimento de Sistemas · FATEC (3/6)
 
 ### Tecnologias
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,py,ts)](https://skillicons.dev)
+
+---
+
+### Estatísticas
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mafemachado&theme=dark&hide_border=true&locale=pt_BR&ring=CC0000&fire=CC0000&currStreakLabel=CC0000&sideLabels=CC0000&dates=888888)](https://git.io/streak-stats)
 
 ---
 
