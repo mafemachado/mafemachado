@@ -9,7 +9,7 @@
 <div align="center">
 
 **Maria Fernanda Machado**  
-Estudante de Análise e Desenvolvimento de Sistemas · FATEC Sorocaba  
+Estudante de Análise e Desenvolvimento de Sistemas · FATEC  
 Sorocaba, SP
 
 </div>
