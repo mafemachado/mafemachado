@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=32&duration=3000&pause=1500&color=CC0000&center=true&vCenter=true&width=600&height=80&lines=%F0%9F%A6%87+Ol%C3%A1%2C+mundo!!+%F0%9F%A6%87" alt="Olá, mundo!!" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=32&duration=3000&pause=1500&color=CC0000&center=true&vCenter=true&width=600&height=80&lines=Ol%C3%A1%2C+mundo!!;%F0%9F%A6%87+%F0%9F%A6%87+%F0%9F%A6%87" alt="Olá, mundo!!" />
 
 </div>
 
