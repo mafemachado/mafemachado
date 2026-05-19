@@ -31,7 +31,11 @@ Estudante de Análise e Desenvolvimento de Sistemas · FATEC (3/6)
 ---
 ### Estatísticas
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mafemachado&theme=dark&hide_border=true&locale=pt_BR&ring=CC0000&fire=CC0000&currStreakLabel=CC0000&sideLabels=CC0000&dates=888888)](https://git.io/streak-stats)
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mafemachado&theme=dark&hide_border=true&locale=pt_BR&ring=CC0000&fire=CC0000&currStreakLabel=CC0000&sideLabels=CC0000&dates=888888&background=00000000)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
