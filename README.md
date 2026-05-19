@@ -21,6 +21,7 @@ Estudante de Análise e Desenvolvimento de Sistemas · FATEC (3/6)
 - 💻 Construindo base sólida em lógica, programação e boas práticas de desenvolvimento
 - 🤖 Explorando Inteligência Artificial e Machine Learning
 - 📍 Sorocaba - SP
+- 💼 [LinkedIn](https://www.linkedin.com/in/mariafernanda-machado/)
 ---
 ### Tecnologias
 
