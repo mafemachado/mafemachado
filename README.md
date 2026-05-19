@@ -15,6 +15,7 @@ Estudante de Análise e Desenvolvimento de Sistemas · FATEC (3/6)
 </div>
 
 ---
+<br>
 <img src="https://raw.githubusercontent.com/mafemachado/mafemachado/main/GEOm28JWQAATQBX-removebg-preview.png" width="86" align="right" />
 
 ### Sobre mim
