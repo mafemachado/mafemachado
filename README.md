@@ -19,7 +19,6 @@ Estudante de Análise e Desenvolvimento de Sistemas · FATEC (3/6)
 <img src="https://raw.githubusercontent.com/mafemachado/mafemachado/main/GEOm28JWQAATQBX-removebg-preview.png" width="86" align="right" />
 
 ### Sobre mim
-
 - 💻 Construindo base sólida em lógica, programação e boas práticas de desenvolvimento
 - 🤖 Explorando Inteligência Artificial e Machine Learning
 - 📍 Sorocaba - SP
