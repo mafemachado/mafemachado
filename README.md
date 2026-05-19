@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=32&duration=3000&pause=1500&color=CC0000&center=true&vCenter=true&width=600&height=80&lines=Ol%C3%A1%2C+mundo!!;%F0%9F%A6%87+%F0%9F%A6%87+%F0%9F%A6%87" alt="Olá, mundo!!" />
@@ -13,7 +12,9 @@
 Estudante de Análise e Desenvolvimento de Sistemas · FATEC (3/6)
 
 </div>
+
 ---
+
 <img src="https://raw.githubusercontent.com/mafemachado/mafemachado/main/GEOm28JWQAATQBX-removebg-preview.png" width="86" align="right" />
 
 ### Sobre mim
@@ -24,7 +25,9 @@ Estudante de Análise e Desenvolvimento de Sistemas · FATEC (3/6)
 ### Tecnologias
 
 [![My Skills](https://skillicons.dev/icons?i=c,cs,py,ts)](https://skillicons.dev)
+
 ---
+
 ### Estatísticas
 
 <div align="center">
