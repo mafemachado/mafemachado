@@ -9,7 +9,7 @@
 <div align="center">
 
 **Maria Fernanda Machado**  
-Estudante de Análise e Desenvolvimento de Sistemas · FATEC (3/6)
+Estudante de Análise e Desenvolvimento de Sistemas · FATEC (4/6)
 
 </div>
 
