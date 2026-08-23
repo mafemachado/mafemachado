@@ -19,13 +19,12 @@ Estudante de Análise e Desenvolvimento de Sistemas · FATEC (4/6)
 
 ### Sobre mim
 - 💻 Construindo base sólida em lógica, programação e boas práticas de desenvolvimento
-- 🤖 Explorando Inteligência Artificial e Machine Learning
 - 📍 Sorocaba - SP
 - 💼 [LinkedIn](https://www.linkedin.com/in/mariafernanda-machado/)
 ---
 ### Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=c,cs,py,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,py,ts,java)](https://skillicons.dev)
 
 ---
 
@@ -42,4 +41,3 @@ Estudante de Análise e Desenvolvimento de Sistemas · FATEC (4/6)
 ### Repositório em destaque
 - [`LP2`](https://github.com/mafemachado/LP2) — Linguagem de Programação 2 / C# · FATEC Sorocaba
 - [`Engenharia-II-Fatec/TG`](https://github.com/Engenharia-II-Fatec/TG) — Sistema Espaço Lição de Casa
-
