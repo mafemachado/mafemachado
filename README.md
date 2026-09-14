@@ -32,7 +32,7 @@ Estudante de Análise e Desenvolvimento de Sistemas · FATEC (4/6)
 
 Projeto PIBICT-CEETEPS, orientado pela Profa. Dra. Maria das Graças Junqueira Machado Tomazela, com foco em Mineração de Dados, clusterização e visualização (Dashboards) para analisar a trajetória de alunos e egressos do Centro Paula Souza.
 
-🌱 *Ainda no primeiro mês do projeto: atualmente na etapa de revisão da literatura (empregabilidade, trabalhabilidade, empreendedorismo e técnicas de mineração de dados).*
+🌱 *Atualmente na etapa de revisão da literatura (empregabilidade, trabalhabilidade, empreendedorismo e técnicas de mineração de dados).*
 
 ---
 ### Tecnologias
