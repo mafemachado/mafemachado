@@ -19,12 +19,26 @@ Estudante de Análise e Desenvolvimento de Sistemas · FATEC (4/6)
 
 ### Sobre mim
 - 💻 Construindo base sólida em lógica, programação e boas práticas de desenvolvimento
+- 📊 Interessada em dados, análise de dados e IA
+- 🔬 Pesquisadora de Iniciação Científica (PIBICT-CEETEPS) na FATEC Sorocaba
 - 📍 Sorocaba - SP
 - 💼 [LinkedIn](https://www.linkedin.com/in/mariafernanda-machado/)
+
+<sub>🎨 nas horas livres, também se aventura pela arte digital</sub>
+
+---
+### Iniciação Científica
+
+**Uso de Inteligência Artificial na Análise Descritiva da Trabalhabilidade e das Intenções Empreendedoras na Trajetória do Aluno e do Egresso do CPS**
+
+Projeto PIBICT-CEETEPS, orientado pela Profa. Dra. Maria das Graças Junqueira Machado Tomazela, com foco em Mineração de Dados, clusterização e visualização (Dashboards) para analisar a trajetória de alunos e egressos do Centro Paula Souza.
+
+🌱 *Atualmente na etapa de revisão da literatura (empregabilidade, trabalhabilidade, empreendedorismo e técnicas de mineração de dados).*
+
 ---
 ### Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=c,cs,py,ts,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,py,ts,java,sklearn,r)](https://skillicons.dev)
 
 ---
 
@@ -39,5 +53,7 @@ Estudante de Análise e Desenvolvimento de Sistemas · FATEC (4/6)
 ---
 
 ### Repositório em destaque
+- [`LicaodeCasa`](https://github.com/mafemachado/LicaodeCasa) — Espaço Lição de Casa · FATEC Sorocaba
+- [`POO---FATEC-2026-2`](https://github.com/mafemachado/POO---FATEC-2026-2) — Programação Orientada a Objetos (Java) · FATEC Sorocaba
 - [`LP2`](https://github.com/mafemachado/LP2) — Linguagem de Programação 2 / C# · FATEC Sorocaba
 - [`Engenharia-II-Fatec/TG`](https://github.com/Engenharia-II-Fatec/TG) — Sistema Espaço Lição de Casa
