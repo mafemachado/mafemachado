@@ -4,7 +4,7 @@
 
 </div>
 
----
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=CC0000&height=3" />
 
 <div align="center">
 
@@ -13,33 +13,33 @@ Estudante de Análise e Desenvolvimento de Sistemas · FATEC (4/6)
 
 </div>
 
----
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=CC0000&height=3" />
 
 <img src="https://raw.githubusercontent.com/mafemachado/mafemachado/main/GEOm28JWQAATQBX-removebg-preview.png" width="86" align="right" />
 
 ### Sobre mim
-- 💻 Construindo base sólida em lógica, programação e boas práticas de desenvolvimento
-- 📊 Interessada em dados, análise de dados e IA
-- 🔬 Pesquisadora de Iniciação Científica (PIBICT-CEETEPS) na FATEC Sorocaba
-- 🎨 Artista digital freelance no [Projeto Hanna](https://github.com/Projeto-Hanna) desde 2022
-- 📍 Sorocaba - SP
-- 💼 [LinkedIn](https://www.linkedin.com/in/mariafernanda-machado/)
+❖ Construindo base sólida em lógica, programação e boas práticas de desenvolvimento  
+❖ Interessada em dados, análise de dados e IA  
+❖ Pesquisadora de Iniciação Científica (PIBICT-CEETEPS) na FATEC Sorocaba  
+❖ Artista digital freelance no [Projeto Hanna](https://github.com/Projeto-Hanna) desde 2022  
+❖ Sorocaba - SP  
+❖ [LinkedIn](https://www.linkedin.com/in/mariafernanda-machado/)
 
----
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=CC0000&height=3" />
 ### Iniciação Científica
 
 **Uso de Inteligência Artificial na Análise Descritiva da Trabalhabilidade e das Intenções Empreendedoras na Trajetória do Aluno e do Egresso do CPS**
 
 Projeto PIBICT-CEETEPS, orientado pela Profa. Dra. Maria das Graças Junqueira Machado Tomazela, com foco em Mineração de Dados, clusterização e visualização (Dashboards) para analisar a trajetória de alunos e egressos do Centro Paula Souza.
 
-🌱 *Atualmente na etapa de revisão da literatura (empregabilidade, trabalhabilidade, empreendedorismo e técnicas de mineração de dados).*
+🌱 *Ainda no primeiro mês do projeto: atualmente na etapa de revisão da literatura (empregabilidade, trabalhabilidade, empreendedorismo e técnicas de mineração de dados).*
 
----
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=CC0000&height=3" />
 ### Tecnologias
 
 [![My Skills](https://skillicons.dev/icons?i=c,cs,py,ts,java,sklearn,r)](https://skillicons.dev)
 
----
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=CC0000&height=3" />
 
 ### Estatísticas
 
@@ -49,10 +49,16 @@ Projeto PIBICT-CEETEPS, orientado pela Profa. Dra. Maria das Graças Junqueira M
 
 </div>
 
----
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=CC0000&height=3" />
 
 ### Repositório em destaque
 - [`LicaodeCasa`](https://github.com/mafemachado/LicaodeCasa) — Espaço Lição de Casa · FATEC Sorocaba
 - [`POO---FATEC-2026-2`](https://github.com/mafemachado/POO---FATEC-2026-2) — Programação Orientada a Objetos (Java) · FATEC Sorocaba
-- [`LP2`](https://github.com/mafemachado/LP2) — Linguagem de Programação 2 / C# · FATEC Sorocaba
-- [`Engenharia-II-Fatec/TG`](https://github.com/Engenharia-II-Fatec/TG) — Sistema Espaço Lição de Casa
+
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=CC0000&height=3" />
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=22&duration=3000&pause=1500&color=CC0000&center=true&vCenter=true&width=500&height=50&lines=At%C3%A9+a+pr%C3%B3xima..." alt="Até a próxima..." />
+
+</div>
